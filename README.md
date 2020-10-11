@@ -7,6 +7,8 @@ I am a cybersecurity and data science professional, interested in different appl
   - LinkedIn: [linkedin.com/in/wilsonalbertotorres/][2]
   - Twitter: [twitter.com/waalb1][3]
 
+⚡ Never be afraid to start over. It’s a chance to rebuild your life the way you wanted all along. - Unknown ⚡
+
 <!--
 **wilsonalberto-git/wilsonalberto-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

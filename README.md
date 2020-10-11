@@ -4,8 +4,8 @@ I am a cybersecurity and data science professional, interested in different appl
 
 - 📫 How to reach me:
   - Web: [wilson-alberto.me][1]
-  - LinkedIn: [https://www.linkedin.com/in/wilsonalbertotorres/][2]
-  - Twitter: [https://twitter.com/waalb1][3]
+  - LinkedIn: [linkedin.com/in/wilsonalbertotorres/][2]
+  - Twitter: [twitter.com/waalb1][3]
 
 <!--
 **wilsonalberto-git/wilsonalberto-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
+
+[1]: https://wilson-alberto.me
+[2]: https://www.linkedin.com/in/wilsonalbertotorres/
+[3]: https://www.twitter.com/waalb1

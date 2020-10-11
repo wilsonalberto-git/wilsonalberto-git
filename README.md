@@ -1,9 +1,6 @@
 ### Hi there 👋 
 
-
-
-- 🔭 I’m currently working on building my personal profiles
-- 🌱 I’m currently learning different applications of data science & machine learning to cybersecurity
+I am a cybersecurity and data science professional, interested in different applications of data science and machine learning to cybersecurity.
 
 - 📫 How to reach me:
   - Web: [wilson-alberto.me][1]
@@ -19,7 +16,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning different applications of data science & machine learning to cybersecurity
 
 - 📫 How to reach me:
-  - Web: [wilson-alberto.me][1]
+  - Web: [https://wilson-alberto.me][1]
   - LinkedIn: [https://www.linkedin.com/in/wilsonalbertotorres/][2]
   - Twitter: [https://twitter.com/waalb1][3]
 
